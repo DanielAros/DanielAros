@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel Aros Ramírez
 
+🔭 I’m currently working on: Being a Software Engineering Students.
+⚡ Fun fact: I'm love listening music, play videogames and soccer.
+😄 I'm interested in App development , cibersecurity and machine learning. 
+💬 Talk to me about Movies, Series, Technology and Sports. 
+🌱 I’m currently learning about App development.
+
+##Skills 
 <!--
 **DanielAros/DanielAros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
